@@ -14,7 +14,7 @@ export async function before(m, { match, usedPrefix, command }) {
 		let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 		let name = await conn.getName(who)
 		let caption = `👋 Hallo @${who.split("@")[0]},\n\nApakah Kamu mencari *${usedPrefix + mean}* ?\n\nHasil Kemiripan ➲ *${parseInt(som)}%*\n\nBot by http://ī.am/PutraModz`
-	if (mean) this.sendButton(m.chat, bottime, caption, `${imgr + 'Apakah Benar?'}`, [['IYA BENAR', `${usedPrefix + mean} ${text}`], ['TIDAK BENAR', usedPrefix + '?']], m, { mentions: this.parseMention(caption) })
+	if (mean) this.sendButton(m.chat, bottime, caption, `${imgr + 'Apakah Benar?'}`, [['IYA BENAR', `.${mean} ${text}`], ['TIDAK BENAR', usedPrefix + '?']], m, { mentions: this.parseMention(caption) })
 	}
 }
 export const disabled = false
