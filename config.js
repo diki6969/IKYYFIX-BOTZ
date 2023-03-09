@@ -87,46 +87,46 @@ global.wm3 = 'Ikyy-MD'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `AMELIA PUTRI SEPTIANY`
-global.stickpack = 'Amelia-Botz'
-global.gcname = 'Amelia Putri Septiany'
-global.nameown1= 'PutraModz'
-global.nameown2 = 'Purnama'
-global.nameown3 = 'Nothing'
-global.packname2 = 'Amelia-MD'
-global.stickauth = `© PutraModz`
+global.titlebot = `IKYY OFFICIAL`
+global.stickpack = 'Ikyy-Botz'
+global.gcname = 'Ikyy Official'
+global.nameown1= 'IkyyOFC'
+global.nameown2 = 'IkyyOFC'
+global.nameown3 = 'IkyyOFC'
+global.packname2 = 'Ikyy-MD'
+global.stickauth = `© IkyyOFC`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown = 'PutraModz'
+global.nameown = 'IkyyOFC'
 global.ultahowner = 'Febuari 02 2024'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.sgc = 'https://chat.whatsapp.com/Lao3HWH4lYiBzWBR38HbTX' //group whatsapp
+global.lynk = 'https://bit.ly/AboutKyyFC'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r'
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.wame = 'wa.me/6283863727401'
-global.linkyt = 'https://youtube.com/@Putra_Modz_'
-global.tautanwa = 'wa.me/6283863727401' //kalau bisa link wa bisnis kalian
+global.sig = 'https://instagram.com/'
+global.sgh = 'https://github.com/diki6969' //github
+global.wame = 'wa.me/6282281657946'
+global.linkyt = 'https://bit.ly/AboutKyyFC'
+global.tautanwa = 'wa.me/6289514509029' //kalau bisa link wa bisnis kalian
 global.sfb = 'https://www.facebook.com/' // facebook
 global.sdc = '-' //discord
-global.gcwangsaf = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.fakeyt = 'https://youtube.com/@Putra_Modz_'
-global.snh = 'https://youtube.com/@Putra_Modz_'
-global.syt = 'https://youtube.com/@Putra_Modz_'
+global.gcwangsaf = 'https://chat.whatsapp.com/Lao3HWH4lYiBzWBR38HbTX'
+global.fakeyt = 'https://bit.ly/AboutKyyFC'
+global.snh = 'https://bit.ly/AboutKyyFC'
+global.syt = 'https://bit.ly/AboutKyyFC'
 global.tik = 'https://www.tiktok.com/'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0838 6372 7401'
-global.povo = '0838 6372 7401'
+global.pdana = '0856 0918 8523'
+global.povo = '-'
 global.plinkaja = '-' //link aja
 global.pgopay = '-'
-global.ppulsa = '0838 6372 7401'
-global.ppulsa2 = '082214729678'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '0856 0918 8523'
+global.ppulsa2 = '089514509029'
+global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -157,9 +157,9 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.stiker_wait = 'Sabar Sayang 98% 𝚠𝚊𝚒𝚝!!'
-global.wait = 'Sabar Sayang 98% 𝚠𝚊𝚒𝚝!!'
-global.md = '_Tunggu Sabar Ya Sayang 😭..._'
+global.stiker_wait = 'Sabar 98% 𝚠𝚊𝚒𝚝!!'
+global.wait = 'Sabar 98% 𝚠𝚊𝚒𝚝!!'
+global.md = '_Tunggu Sabar Ya 😉..._'
 global.eror = 'Mohon Maaf Server Kami Sedang Error Njier!'
 
 
@@ -247,7 +247,7 @@ global.rpg = {
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WEBSITE APIKEY ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.zenzkey = 'b8040941f7'
-global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID
+global.lolkey = 'sgwn' // PUNYA WAHID
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -286,7 +286,7 @@ global.APIKeys = { // APIKey Here
   'https://api.saipulanuar.my.id': '9vxw5GqJ',
   'https://api.xteam.xyz': 'HIRO',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',// 8e66d0934cf741bfd2182c16
+  'https://api.lolhuman.xyz': 'sgwn',// 8e66d0934cf741bfd2182c16
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -313,7 +313,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
-global.premnsfw = true // Nsfw Mode Premium?
+global.premnsfw = false // Nsfw Mode Premium?
 global.thumb = 'https://telegra.ph/file/da9f4b5973a80981079b9.jpg' //Main Thumbnail
 global.thumbnail = 'https://telegra.ph/file/974d7f7ff054d5491ae82.jpg'
 global.thumb2 = 'https://telegra.ph/file/d5795084974fa38d388ce.jpg'
@@ -493,9 +493,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 global.flaaa = fla
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/l4c1f2r"
+global.urlnya = "https://bit.ly/AboutKyyFC"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0838 6372 7401'
+global.phn = '0822 8165 7946'
 
 // ⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WARNING JGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
